@@ -1,4 +1,6 @@
 # TarjetaDeRed
 
-## INICIO
+### INICIO
+
+-- DATOS DE LOS 
 
