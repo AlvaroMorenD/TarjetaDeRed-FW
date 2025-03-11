@@ -42,7 +42,7 @@ Aunque las velocidades son más altas, la **latencia** (tiempo de respuesta) en 
 
 ![Texto alternativo](img/m.2.jfif)
 
-#### Aspectos a tener en cuenta al comprar una tarjeta de red
+### Aspectos a tener en cuenta al comprar una tarjeta de red
 
 En conclusión, lo más importante para una tarjeta de red es su **ancho de banda** (GHz), la **velocidad de transmisión** (Gb/s o Mb/s), el **estándar Wi-Fi** que soporte en caso de que sean tarjetas inalámbricas, y el tipo de **puerto** (Gigabit o Fast Ethernet), siendo más rápidos los **Gigabits** para las tarjetas cableadas. El tipo de conexión, que las más eficientes son las **PCI EXPRESS**, y por último, su **precio**, ya que tampoco hace falta invertir demasiado en este tipo de hardware.
 
