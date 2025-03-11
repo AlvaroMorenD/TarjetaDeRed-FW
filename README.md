@@ -6,9 +6,9 @@ Las tarjetas de red, son las encargadas de proporcionarnos conectividad a la red
 
 Todas las tarjetas de red se forman por una **MAC**, que define su identidad.
 
-###-  Características principales
+### Características principales
 
-####-  Tipos de conexión
+#### Tipos de conexión
 
 ##### Conexión LAN (Ethernet)
 Las tarjetas de red Ethernet utilizan un conector **RJ45** para establecer una conexión cableada entre el dispositivo y la red. Este tipo de conexión tiene una ventaja importante en cuanto a **estabilidad y velocidad**, lo que se traduce en una mayor **confiabilidad** y menor latencia. Son especialmente útiles para actividades como el **gaming** o la **transmisión de grandes volúmenes de datos**.
