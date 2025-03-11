@@ -45,6 +45,8 @@ Las tarjetas PCI EXPRESS que son las que se conectan en las ranuras PCI EXPRESS 
 
 Los adaptadores por USB, son las que se conectan a un puerto USB del dispositivo, son populares por su fácil uso e implementación. Su conexión depende del tipo de USB (3.0, 3.1...) que soporte. Populares para ordenadores portátiles que no tengan adaptador de red integrado.
 
+![Texto alternativo](img/usb.jfif)
+
 Y por último, la tarjetas de red por M.2, que son muy comunes en los ordenadores portátiles, ya que vienen integradas en su placa base.
 
 - Características a tener en cuenta al comprar una tarjeta de red 
