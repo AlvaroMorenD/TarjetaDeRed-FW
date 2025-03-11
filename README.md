@@ -49,6 +49,8 @@ Los adaptadores por USB, son las que se conectan a un puerto USB del dispositivo
 
 Y por último, la tarjetas de red por M.2, que son muy comunes en los ordenadores portátiles, ya que vienen integradas en su placa base.
 
+![Texto alternativo](img/m.2.jfif)
+
 
 - Características a tener en cuenta al comprar una tarjeta de red 
 
