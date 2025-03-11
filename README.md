@@ -38,9 +38,10 @@ Aunque las velocidades son más altas, la latencia (tiempo de respuesta) en las 
 
 Las tarjetas PCI que se conectan a una ranura PCI de la placa base. Fue un estándar muy común antes del PCIe. Ya están casi obsoletas. Llegan de entre 100 Mb/s y 1 Gb/s
 
-![Texto alternativo](img/pci.jpg)
 
 Las tarjetas PCI EXPRESS que son las que se conectan en las ranuras PCI EXPRESS de la placa base, son las más utilizadas a día de hoy para ordenadores de escritorio
+
+![Texto alternativo](img/pci.jpg)
 
 Los adaptadores por USB, son las que se conectan a un puerto USB del dispositivo, son populares por su fácil uso e implementación. Su conexión depende del tipo de USB (3.0, 3.1...) que soporte. Populares para ordenadores portátiles que no tengan adaptador de red integrado.
 
