@@ -13,11 +13,21 @@ Todas las tarjetas de red se forman por una MAC, que define su identidad.
 Conexión LAN (Ethernet):
 Las tarjetas de red Ethernet utilizan un conector RJ45 para establecer una conexión cableada entre el dispositivo y la red. Este tipo de conexión tiene una ventaja importante en cuanto a estabilidad y velocidad, lo que se traduce en una mayor confiabilidad y menor latencia. Son especialmente útiles para actividades como el gaming o la transmisión de grandes volúmenes de datos.
 
+
+
+![Texto alternativo](img/cableado.jfif)
+
+
+
+
+
 Conexión WiFi (inalámbrica):
 Las tarjetas Wi-Fi permiten conectarse a redes inalámbricas a través de un router, utilizando antenas externas o internas. Las velocidades de conexión pueden variar dependiendo del estándar de Wi-Fi soportado y la distancia al router, además de las interferencias que puedan existir en el entorno. Los estándares WiFi más comunes son:
 
 Wi-Fi 4: Hasta 600 Mb/s
+
 Wi-Fi 5: Hasta 3.5 Gb/s
+
 Wi-Fi 6: Hasta 9.6 Gb/s
 
 Aunque las velocidades son más altas, la latencia (tiempo de respuesta) en las conexiones inalámbricas tiende a ser mayor que en las cableadas, lo que puede afectar el rendimiento en actividades de alta demanda.
