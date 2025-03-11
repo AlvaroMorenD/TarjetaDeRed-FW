@@ -27,8 +27,10 @@ Las tarjetas Wi-Fi permiten conectarse a redes inalámbricas a través de un rou
 Wi-Fi 4: Hasta 600 Mb/s
 
 Wi-Fi 5: Hasta 3.5 Gb/s                                         
-                                                                                ![Texto alternativo](img/wifi.jfif)
+                                                                               
 Wi-Fi 6: Hasta 9.6 Gb/s
+
+![Texto alternativo](img/wifi.jfif)
 
 Aunque las velocidades son más altas, la latencia (tiempo de respuesta) en las conexiones inalámbricas tiende a ser mayor que en las cableadas, lo que puede afectar el rendimiento en actividades de alta demanda.
 
